@@ -1,0 +1,40 @@
+intern
+executive
+guru
+rockstar
+wizard
+geek
+ninja
+storyteller
+superstar
+maestro
+dynamo
+overlord
+jedi
+associate
+prophet
+viceroy
+hacker
+evangelist
+developer
+sherpa
+trailblazer
+philosopher
+director
+troublemaker
+alchemist
+swiss army knife
+demi-god
+inspiration officer
+happiness officer
+hero
+genius
+birthday officer
+warrior
+champion
+lawyer
+programmer
+app developer
+database administrator
+
+
